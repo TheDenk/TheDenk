@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=thedenk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [<img align="left" alt="thedenk | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/200px-Linkedin.svg.png" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/denis-karachev-a89115115
+[linkedin]: https://www.linkedin.com/in/thedenk
 <!--
 **TheDenk/TheDenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
