@@ -1,4 +1,6 @@
-![Denk's GitHub stats](https://github-readme-stats.vercel.app/api/?username=thedenk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+<!-- ![Denk's GitHub stats](https://github-readme-stats.vercel.app/api/?username=thedenk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+-->
+![GitHub stats](https://githubcard.com/TheDenk.svg?d=UgvW2zTW)
 <br />
 <a href="https://www.linkedin.com/in/thedenk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://huggingface.co/TheDenk"><img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"></a>
